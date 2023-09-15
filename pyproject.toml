@@ -1,0 +1,7 @@
+[tool.pyright]
+reportMissingImports = false
+
+[tool.isort]
+multi_line_output = 5
+force_grid_wrap = 0
+line_length = 100
